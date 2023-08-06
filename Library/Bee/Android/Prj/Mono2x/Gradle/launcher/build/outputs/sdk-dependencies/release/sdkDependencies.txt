@@ -1,0 +1,25 @@
+# List of SDK dependencies of this app, this information is also included in an encrypted form in the APK.
+# For more information visit: https://d.android.com/r/tools/dependency-metadata
+
+library {
+  maven_library {
+    artifactId: "helloTest"
+  }
+  digests {
+    sha256: "\312y\372\360\317\027m\351\034\246:\341\375\260y!\231\341k*\242\220[\374\335\006\356\271\363bQ\255"
+  }
+}
+library {
+  digests {
+    sha256: "\336qX\272\355\376\353J\357#D\v\371\356\272\352\315\3654D\206\342\307\b\363\035T\316\270\003\252W"
+  }
+}
+library_dependencies {
+}
+library_dependencies {
+  library_index: 1
+}
+module_dependencies {
+  module_name: "base"
+  dependency_index: 1
+}
